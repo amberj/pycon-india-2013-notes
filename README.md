@@ -4,7 +4,8 @@ Inspired by [pydanny](https://github.com/pydanny‎)'s [event notes repo on GitH
 
 **Note**: I won't be able to attend all talks. If you are taking notes, feel free to clone this repo and send your notes as pull requests.
 
-TODO:
+#### TODO:
+
 0. Proofread all notes once again to fix typos and add missing content.
 1. Add links to presentation slides (if author has put them online).
 2. Add links to corresponding videos when HasGeek puts them online.
