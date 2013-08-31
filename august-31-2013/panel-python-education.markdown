@@ -1,2 +1,2 @@
-## Python in Education: Panel Discussion
+## Panel Discussion: Python in Education
 
