@@ -3,7 +3,7 @@
 
 #### Queues
 * Require message brokers. Central point of failure
-	* For e.g. Apache ActiveMQ, RabbitMQ, StormMQ, Redis
+    * For e.g. Apache ActiveMQ, RabbitMQ, StormMQ, Redis
 
 #### ZeroMQ
 * No message broker. 
@@ -17,12 +17,12 @@
 * Paired sockers
 
 #### Request-Reply 
-Image. TBD.
+Image.
 
 #### Hello World Server
-Code. TBD.
+Code.
 
 #### Hello World Client
-Code. TBD.
+Code.
 
 Next time, can you please increase the font size of slide content and Terminal? I could not take notes because of this.
