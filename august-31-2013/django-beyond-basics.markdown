@@ -4,11 +4,11 @@
 Note: Missed first 15-20 minutes.
 
 #### Why not Django?
-* **Unusually* (I repeat, **unusually**) high performance needs.
+* **Unusually** (Arun explicitly repeated, **unusually**) high performance needs.
 * Existing legacy database models.
 * Migration? South. Django v1.7 has migration support built into Django.
 * Builtin features ORM/Template are not enough.
-	* Replacements are available. For e.g. SQLAlchemy for ORM, Jinja2 for templates etc.
+    * Replacements are available. For e.g. SQLAlchemy for ORM, Jinja2 for templates etc.
 
 #### Best practices
 * Distrust outside data. Sanitize everything!
@@ -20,15 +20,15 @@ Note: Missed first 15-20 minutes.
 
 #### Novice questions
 * What is QuerySet?
-	* Converts database 'stuff' to Python objects.
+    * Converts database 'stuff' to Python objects.
 * Why is media separate?
-	* Static is everything dev has written: JS, CSS etc.
-	* Media includes images, videos etc.
+    * Static is everything dev has written: JS, CSS etc.
+    * Media includes images, videos etc.
 * Which IDE?
-	* Choose whichever yor
-	* PyCharm, pydev for Eclipse, emacs, vim, Sublime Text 2
+    * Choose whichever yor
+    * PyCharm, pydev for Eclipse, emacs, vim, Sublime Text 2
 * How to deploy?
-	* Fabric, Chef, Puppet for deployment automation.
+    * Fabric, Chef, Puppet for deployment automation.
 
 #### Must-learn Python Packages
 * pip
@@ -98,4 +98,4 @@ Q: Configuration (Django) v/s Convention (Rails)?
 > A: Convention-first approach has de-facto conventions for doing things. Configurations-first approach allows you more flexibility.
 
 Q: Why is IPython better?
-> A: Python console on Androids. Loads of useful features.
+> A: Python console on Steroids. Loads of useful features.
