@@ -1,5 +1,5 @@
 ## PyCon India 2013 Keynote
-### Kiran Jonnalagadda
+### [Kiran Jonnalagadda](https://twitter.com/jackerhack)
 
 Note: Unfortunately, I missed first 5-10 minutes of Kiran's keynote :(
 
@@ -19,13 +19,13 @@ Note: Unfortunately, I missed first 5-10 minutes of Kiran's keynote :(
 	* MySQL was incompatible with Zine.
 	* Why? Because he got busy... no one else to manage/fix his fork of Zine.
 * Open Source is awesome!
-	* Tom Preston Werner's (GitHub's cofounder) blogpost: "Open Source (almost) everything"
+	* Tom Preston Werner's (GitHub's cofounder) blogpost: [Open Source (almost) everything](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)
 
 * Example:
-	* *Cubism.js*
-	* Some web development company (--- foundation?) started open sourcing their
-	* *Twitter Bootstrap*: Good JS, HTML, CSS practices in one package.
-	* *Flipkart's phantom*(?) project on Github. 
+	* [*Cubism.js*](http://square.github.io/cubism/)
+	* Zurb, a web development company started open sourcing their gridding system - [Foundation](http://foundation.zurb.com/)
+	* [*Twitter Bootstrap*](www.getbootstrap.com): Good JS, HTML, CSS practices in one package.
+	* [*Flipkart's phantom*](https://github.com/Flipkart/phantom) project on Github. 
 * Maintaining code is more difficult than actually writing the code originally.
 * Maintainence costs > authoring costs.
 * Open Source is process of distributing the overhead maitainence tasks.
