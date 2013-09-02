@@ -1,6 +1,10 @@
 ## Build your next Python project - Super fast, distributed and infinitely scalable, using ZeroMQ
 ## Srinivasan R
 
+#### Links
+Slides: [https://speakerdeck.com/cnu/zeromq-pycon-india-2013](https://speakerdeck.com/cnu/zeromq-pycon-india-2013)
+Code: [https://github.com/cnu/zeromq-talk](https://github.com/cnu/zeromq-talk)
+
 #### Queues
 * Require message brokers. Central point of failure
     * For e.g. Apache ActiveMQ, RabbitMQ, StormMQ, Redis
